@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luca</h1>
-<h3 align="center">A Computer Science student from England</h3>
+<h3 align="center">Computer Science student from England</h3>
 
 📚 Currently working on improving myself
 
@@ -8,7 +8,6 @@
 ❔ Fun fact "Tl;dr" is an offical word in the dictionary
 
 <div style="display: flex; justify-content: flex-start;">
-  <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=rlucaks&theme=dark" alt="GitHub Streak">
   </a>
   <a href="https://github.com/rlucaks">
