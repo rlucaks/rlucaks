@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Luca</h1>
 <h3 align="center">Computer Science student from England</h3>
 
-📚 Currently studying my GCSEs
+📚 Currently studying Python
 
 🤝 Open to collabrative projects
 
